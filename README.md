@@ -13,3 +13,10 @@
 ```
   streamlit hello
 ```
+
+## ブランチ管理について
+ブランチ切って開発しよう。
+機能ごとにっていうより、一旦人ごとに作成で
+
+- 豊田：branch-toyoda
+- 岩城：branch-iwaki
