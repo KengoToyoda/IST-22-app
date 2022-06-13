@@ -1,11 +1,15 @@
 # IST-22-app
 
-# stremlitインストール
+## 手順
+1. このリポジトリをGit Clone
+2. stremlitインストールs
+
+## stremlitインストール
 ```
   pip install streamlit
 ```
 
-# サンプルアプリ表示
+## サンプルアプリ表示
 ```
   streamlit hello
 ```
